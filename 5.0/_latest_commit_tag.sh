@@ -1,1 +1,1 @@
-export latestcontainertag=jgwill/zeus:giamongodb-2204100604
+export latestcontainertag=jgwill/zeus:giamongodb-2204100904
